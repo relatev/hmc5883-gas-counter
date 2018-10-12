@@ -1,7 +1,7 @@
 qmc5883-gas-counter
 ====================
 
-# This is a patched version support the qmc5883 model. Byte registers are changed based von the Datasheet found here: http://osoyoo.com/driver/QMC5883L-Datasheet-1.0.pdf.
+# Note: This is a patched version supporting the qmc5883 instead of the hmc5883 model. Byte registers are changed based von the Datasheet found ![here](http://osoyoo.com/driver/QMC5883L-Datasheet-1.0.pdf).
 # The original version may be found ![here](https://github.com/skaringa/hmc5883-gas-counter).
 
 Program to monitor the consumption of gas used for heating in a household .
